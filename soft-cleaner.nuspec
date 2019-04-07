@@ -8,14 +8,14 @@
     <title>Soft Cleaner</title>
     <authors>satheeshsoft</authors>
     <projectUrl>http://www.softcleaner.in</projectUrl>
-    <iconUrl>http://www.softcleaner.in/satheeshsoft/Soft-Cleaner-Icon128.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-Chocolatey-Package/master/Soft-Cleaner-Icon128.png</iconUrl>
     <copyright>2019 satheeshsoft</copyright>
     <licenseUrl>http://www.softcleaner.in/privacy-policy</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>http://www.softcleaner.in/live-analysis</docsUrl>
     <mailingListUrl>http://www.softcleaner.in/contact</mailingListUrl>
     <bugTrackerUrl>https://groups.google.com/forum/#!forum/satheeshsoft</bugTrackerUrl>
-    <tags>soft cleaner speedup speed virus-cleaner clean freeware satheeshsoft privacy internet optimize security</tags>
+    <tags>soft cleaner speedup speed system windows clean freeware satheeshsoft privacy internet optimize security</tags>
     <summary>Optimize, Speed up your PC, Clean, Instant speed boost, Virus Cleaner</summary>
     <description>Speed up your all computers now and never go back to slow system again. Download Soft Cleaner. Convert your all slow PC into real speed.</description>
     <releaseNotes>Main update</releaseNotes>
